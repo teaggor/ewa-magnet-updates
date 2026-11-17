@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "content": {
+    "version": 18,
+    "versionName": "v18",
+    "url": "content/v18.html",
+    "sha256": "ae1774a8bb97478e05c2134ded610d0fea4842dd7cbb5e3e1994b7a8295c7c97",
+    "bytes": 1113226,
+    "notes": "Первый выпуск библиотеки «Пять ключей», версия 18"
+  },
+  "android": null
+}
